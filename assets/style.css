@@ -1,0 +1,6 @@
+
+body { font-family: sans-serif; margin: 20px; background: #f4f4f4; }
+h1, h2 { color: #333; }
+input, button { padding: 10px; margin: 5px; }
+#product-grid, #product-list { display: grid; gap: 10px; }
+.admin-link { float: right; margin-top: -40px; }
